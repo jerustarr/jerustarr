@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there!!! I'm Jerusha👋
+
+*Welcome to my github*
 
 <!--
 **jerustarr/jerustarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
